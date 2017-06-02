@@ -1,0 +1,17 @@
+body{
+    /*//margin-top:50px;*/
+}
+
+header .branding {
+    display:block;
+    width:100%;
+    background:white;
+// max-width:960px;
+    margin:0 auto;
+}
+
+nav{
+    /*width:100%;
+    background:blue;*/
+}
+
