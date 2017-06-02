@@ -20,8 +20,28 @@ nav{
     height: 250px;
 }
 
+.feature h4 , .feature p{
+    text-align: center;
+}
 .feature-glypicon{
     font-size:75px;
-
 }
+
+.feature-bg{
+    color:white;
+    background: url(http://hariborn.crunchkode.com/img/section-banner.jpg) fixed no-repeat center;
+    background-size: cover;
+    height: 300px;
+}
+
+.feature-content{
+    margin-top:40px;
+}
+.feature .description{
+    font-size:12px;
+    text-align: center;
+    color: grey;
+}
+
+
 
