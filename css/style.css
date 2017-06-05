@@ -104,6 +104,10 @@ nav{
     background:blue;*/
 }
 
+.navbar{
+    border: 0px solid white;
+}
+
 .feature-site{
     width: 100%;
     height: 250px;
