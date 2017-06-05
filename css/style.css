@@ -19,6 +19,26 @@ div.heading p{
     color: #aba8a8;
 }
 
+.navbar {
+    border: 0px solid white;
+    margin-top: 16px;
+}
+
+/*#header .container .col-md-12{
+    //padding:0px 0px 0px 0px !important;
+}
+
+#header .container-fluid {
+    //padding: 0px 0px 0px 0px !important;
+}*/
+
+#header .social {
+    padding-top: 10px;
+    padding-left: 18px;
+    font-size:2px;
+}
+
+
 #header .container-fluid{
     background-image: url("../img/bg.png") !important;
     background-repeat: repeat;
@@ -185,6 +205,9 @@ div.heading p{
     height: 250px;
     border: 2px solid white;
     box-shadow: 2px 2px 2px grey;
+    padding: 20px 10px 20px 10px;
+    margin:10px 5px 10px 5px;
+    border:1px solid red;
 }
 
 .feature h4 , .feature p{
@@ -198,7 +221,7 @@ div.heading p{
     color:white;
     background: url(http://hariborn.crunchkode.com/img/section-banner.jpg) fixed no-repeat center;
     background-size: cover;
-    height: 300px;
+
 }
 
 .feature-content{
@@ -208,6 +231,7 @@ div.heading p{
     font-size:12px;
     text-align: center;
     color: grey;
+    padding-bottom: 30px;
 }
 
 
@@ -233,13 +257,13 @@ footer p {
 
 .social [class*="fa fa-"] {
     background-color: #fdfdfd;
-    border-radius: 30px;
+    border-radius: 25px;
     color: #060606;
     display: inline-block;
-    height: 30px;
-    line-height: 30px;
+    height: 25px;
+    line-height: 25px;
     margin: auto 3px;
-    width: 30px;
+    width: 25px;
     font-size: 15px;
     text-align: center;
 }
