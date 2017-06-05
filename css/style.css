@@ -11,6 +11,33 @@ header .branding {
 }
 
 
+#header .container-fluid{
+    background-image: url("../img/bg.png") !important;
+    background-repeat: repeat;
+}
+
+
+#header .container-fluid nav ul li a{
+    color:grey;
+    text-transform: uppercase ;
+    font-size:10px;
+    font-weight: bold;
+}
+
+#header .container-fluid nav ul li a.active{
+    color:white;
+
+}
+
+#header .container-fluid nav ul li a:hover, a:focus  {
+    text-decoration:none;
+    color:white;
+}
+
+#header a.navbar-brand{
+    color:white !important ;
+}
+
 #banner{
     color:white;
     background: url(http://hariborn.crunchkode.com/img/section-banner.jpg) fixed no-repeat center;
