@@ -94,6 +94,10 @@ div.heading p{
 
 }
 
+#banner-body .left-content{
+    padding-left: 30px;
+}
+
 #banner-body .left-content h4{
     padding-top:25px;
 }
@@ -106,10 +110,6 @@ div.heading p{
     text-decoration:none;
     color:white;
 
-}
-
-#banner-body .left-content h4, #banner-body .left-contentspan, #banner-body .left-content p{
-    padding-left: 30px;
 }
 
 #banner-body .left-content  button{
