@@ -212,3 +212,34 @@ div.heading p{
 
 
 
+
+
+#footer .container-fluid{
+    background-image: url("../img/bg.png") !important;
+    background-repeat: repeat;
+}
+
+footer{
+    padding: 10px 10px 10px 10px;
+    height: 80px !important;
+    color: grey;
+}
+
+footer p {
+    margin-top:20px;
+    margin-bottom:10px;
+
+}
+
+.social [class*="fa fa-"] {
+    background-color: #fdfdfd;
+    border-radius: 30px;
+    color: #060606;
+    display: inline-block;
+    height: 30px;
+    line-height: 30px;
+    margin: auto 3px;
+    width: 30px;
+    font-size: 15px;
+    text-align: center;
+}
