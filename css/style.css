@@ -80,7 +80,7 @@ header .branding {
 
 }
 
-#banner-body .left-content h4, span, p{
+#banner-body .left-content h4, #banner-body .left-contentspan, #banner-body .left-content p{
     padding-left: 30px;
 }
 
