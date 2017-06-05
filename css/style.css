@@ -11,6 +11,14 @@ header .branding {
 }
 
 
+h3{
+    color:grey;
+}
+div.heading p{
+    font-size:12px;
+    color: #aba8a8;
+}
+
 #header .container-fluid{
     background-image: url("../img/bg.png") !important;
     background-repeat: repeat;
