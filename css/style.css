@@ -91,6 +91,8 @@ div.heading p{
     border: 4px solid white;
     background-color: black;
     box-shadow: 2px 2px 2px grey;
+    box-shadow: 2px 2px 2px grey;
+    background-image: url(../img/bg.png) !important
 
 }
 
@@ -146,13 +148,9 @@ div.heading p{
     background-color: transparent !important;
 }
 
-#banner-body .right-content{
-    background-color:black;
-}
+
 #banner-body .right-content img{
     margin: auto;
-    margin-left: -16px;
-    margin-right: 20px;
     width:100%;
     height: 250px;
 
@@ -161,8 +159,7 @@ div.heading p{
 #banner-body .left-content{
     margin-left:-15px;
     color:white;
-    background-image: url("../img/bg.png") !important;
-    background-repeat: repeat;
+
     height: 250px;
 }
 
